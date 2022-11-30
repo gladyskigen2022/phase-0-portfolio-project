@@ -1,9 +1,35 @@
 
-<body>
-    <background-color></background-color>: blue
+/*<body>
+   
+    background-color: aquamarine;
+
 </body>
 #main-header {
     color: black;
     font: 1em sans-serif;
     font-size: 22px;
+}*/
+*{
+    margin: 10px;
+    padding: 2px;
+    font-family:'Times New Roman', Times, serif;
+    color: #0f110f;
+
+}
+.banner{
+    width: 100%;
+    height: 100vh;
+    
+    }
+img{
+        border-radius: 50%;
+        padding-bottom: 2px;
+        width: 200px;
+        
+}
+html{
+    background-image: url("./webimage1.jpg");
+    background-size: cover;
+    background-position:65%
+
 }
